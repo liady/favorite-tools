@@ -4,6 +4,7 @@
 ### Build / Deploy
 - [Travis CI](https://travis-ci.org/) - Good CI tool for builds and tests
 - [Surge](http://surge.sh/) - Static host
+- [Badge Matrix](https://github.com/exogen/badge-matrix) - Badges for projects
 
 ### Libraries
 - [BlissJS](http://blissfuljs.com/) - Small jQuery replacement
