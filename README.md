@@ -10,3 +10,6 @@
 - [BlissJS](http://blissfuljs.com/) - Small jQuery replacement
 - [Little loader](https://github.com/walmartlabs/little-loader) - Tiny JS script loader
 - [React Pure Render](https://www.npmjs.com/package/react-pure-render-utils) - Pure Render tools for React
+
+### Tools
+- [NPM Check](https://github.com/dylang/npm-check) - Checks for unused/outdated dependencies
