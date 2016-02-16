@@ -20,9 +20,9 @@
 - [NPM Check](https://github.com/dylang/npm-check) - Checks for unused/outdated dependencies
 
 ### Starter Kits
-[React isomorphic starter kit](https://github.com/RickWong/react-isomorphic-starterkit)
-[Essential React](https://github.com/pheuter/essential-react)
-[Hackathon Starter](https://github.com/sahat/hackathon-starter)
-[React Hot boilerplate](https://github.com/gaearon/react-hot-boilerplate)
-[Webpack React](https://github.com/survivejs/webpack_react)
-[React starter pack](http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack)
+- [React isomorphic starter kit](https://github.com/RickWong/react-isomorphic-starterkit)
+- [Essential React](https://github.com/pheuter/essential-react)
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+- [React Hot boilerplate](https://github.com/gaearon/react-hot-boilerplate)
+- [Webpack React](https://github.com/survivejs/webpack_react)
+- [React starter pack](http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack)
