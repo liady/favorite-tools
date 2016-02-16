@@ -20,6 +20,7 @@
 - [NPM Check](https://github.com/dylang/npm-check) - Checks for unused/outdated dependencies
 
 ### Starter Kits
+- [Frontend boilerplate](https://github.com/tj/frontend-boilerplate)
 - [React isomorphic starter kit](https://github.com/RickWong/react-isomorphic-starterkit)
 - [Essential React](https://github.com/pheuter/essential-react)
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
