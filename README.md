@@ -27,6 +27,7 @@
 - [React Hot boilerplate](https://github.com/gaearon/react-hot-boilerplate)
 - [Webpack React](https://github.com/survivejs/webpack_react)
 - [React starter pack](http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack)
+- [MERN](http://mern.io/)
 
 ### Awesomes
 - [Awesome React](https://github.com/enaqx/awesome-react)
