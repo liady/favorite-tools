@@ -18,6 +18,7 @@
 
 ### Tools
 - [NPM Check](https://github.com/dylang/npm-check) - Checks for unused/outdated dependencies
+- [Cross-Env] (https://www.npmjs.com/package/cross-env) - Cross environment variables
 
 ### Starter Kits
 - [Frontend boilerplate](https://github.com/tj/frontend-boilerplate)
