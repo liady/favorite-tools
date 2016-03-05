@@ -11,7 +11,8 @@
 - [BlissJS](http://blissfuljs.com/) - Small jQuery replacement
 - [Little loader](https://github.com/walmartlabs/little-loader) - Tiny JS script loader
 - [React Pure Render](https://www.npmjs.com/package/react-pure-render-utils) - Pure Render tools for React
-- [VelocityJS](http://julian.com/research/velocity/) - Animation engine 
+- [VelocityJS](http://julian.com/research/velocity/) - Animation engine
+- [Chance](http://chancejs.com/) - Random generator
 
 ### React/ES6
 - [Decorators](https://www.npmjs.com/package/core-decorators) - Core decorators
