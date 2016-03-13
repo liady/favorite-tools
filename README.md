@@ -17,6 +17,7 @@
 ### React/ES6
 - [Decorators](https://www.npmjs.com/package/core-decorators) - Core decorators
 - [React toolbox](http://react-toolbox.com/) - Various components
+- [Recompose](https://github.com/acdlite/recompose) - Common design patterns
 
 ### Tools
 - [NPM Check](https://github.com/dylang/npm-check) - Checks for unused/outdated dependencies
