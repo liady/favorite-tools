@@ -6,6 +6,7 @@
 - [Surge](http://surge.sh/) - Static host
 - [Badge Matrix](https://github.com/exogen/badge-matrix) - Badges for projects
 - [ReleaseIt](http://webpro.github.io/release-it/) - Easy releases
+- [Greenkeeper](https://greenkeeper.io/) - Auto updates NPM versions
 
 ### Libraries
 - [BlissJS](http://blissfuljs.com/) - Small jQuery replacement
