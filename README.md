@@ -27,6 +27,7 @@
 - [StyleLint](http://stylelint.io/) - Lint CSS
 
 ### Starter Kits
+- [Preact](https://github.com/developit/preact-boilerplate) - React alternative
 - [Frontend boilerplate](https://github.com/tj/frontend-boilerplate)
 - [React isomorphic starter kit](https://github.com/RickWong/react-isomorphic-starterkit)
 - [Essential React](https://github.com/pheuter/essential-react)
