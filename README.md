@@ -25,6 +25,7 @@
 - [Cross-Env](https://www.npmjs.com/package/cross-env) - Cross environment variables
 - [ESLint Canonical]() - Canonical eslint
 - [StyleLint](http://stylelint.io/) - Lint CSS
+- [TryModule](https://github.com/VictorBjelkholm/trymodule) - Try node modules in the console
 
 ### Starter Kits
 - [Preact](https://github.com/developit/preact-boilerplate) - React alternative
