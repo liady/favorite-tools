@@ -41,3 +41,4 @@
 ### Awesomes
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
+- [Awesome Redux](https://github.com/xgrommx/awesome-redux)
