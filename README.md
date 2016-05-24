@@ -26,6 +26,7 @@
 - [ESLint Canonical]() - Canonical eslint
 - [StyleLint](http://stylelint.io/) - Lint CSS
 - [TryModule](https://github.com/VictorBjelkholm/trymodule) - Try node modules in the console
+- [Auto0](https://auth0.com) - Easy authorization starter
 
 ### Starter Kits
 - [Preact](https://github.com/developit/preact-boilerplate) - React alternative
