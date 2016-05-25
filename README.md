@@ -7,6 +7,7 @@
 - [Badge Matrix](https://github.com/exogen/badge-matrix) - Badges for projects
 - [ReleaseIt](http://webpro.github.io/release-it/) - Easy releases
 - [Greenkeeper](https://greenkeeper.io/) - Auto updates NPM versions
+- [Lerna](https://github.com/lerna/lerna/) - Manage multiple JS packages
 
 ### Libraries
 - [BlissJS](http://blissfuljs.com/) - Small jQuery replacement
