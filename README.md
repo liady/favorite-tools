@@ -30,6 +30,7 @@
 - [Auto0](https://auth0.com) - Easy authorization starter
 
 ### Starter Kits
+- [Simple Starter](https://github.com/alicoding/react-webpack-babel)
 - [Preact](https://github.com/developit/preact-boilerplate) - React alternative
 - [Frontend boilerplate](https://github.com/tj/frontend-boilerplate)
 - [React isomorphic starter kit](https://github.com/RickWong/react-isomorphic-starterkit)
