@@ -20,6 +20,7 @@
 - [Decorators](https://www.npmjs.com/package/core-decorators) - Core decorators
 - [React toolbox](http://react-toolbox.com/) - Various components
 - [Recompose](https://github.com/acdlite/recompose) - Common design patterns
+- [React-Select](http://jedwatson.github.io/react-select/) - React selection box
 
 ### Tools
 - [NPM Check](https://github.com/dylang/npm-check) - Checks for unused/outdated dependencies
@@ -45,3 +46,6 @@
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux)
+
+### Others
+- [Codepen Patterns](https://codepen.io/patterns/)
