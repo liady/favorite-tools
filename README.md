@@ -34,6 +34,7 @@
 
 ### Starter Kits
 - [Simple Starter](https://github.com/alicoding/react-webpack-babel)
+- [React Slingshot](https://github.com/coryhouse/react-slingshot)
 - [Preact](https://github.com/developit/preact-boilerplate) - React alternative
 - [Frontend boilerplate](https://github.com/tj/frontend-boilerplate)
 - [React isomorphic starter kit](https://github.com/RickWong/react-isomorphic-starterkit)
