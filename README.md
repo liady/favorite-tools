@@ -16,6 +16,7 @@
 - [VelocityJS](http://julian.com/research/velocity/) - Animation engine
 - [Chance](http://chancejs.com/) - Random generator
 - [Yargs](http://yargs.js.org/) - Command line arguments parser
+- [Chalk](https://www.npmjs.com/package/chalk) - Colorful output
 
 ### React/ES6
 - [Decorators](https://www.npmjs.com/package/core-decorators) - Core decorators
