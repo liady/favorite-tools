@@ -15,6 +15,7 @@
 - [React Pure Render](https://www.npmjs.com/package/react-pure-render-utils) - Pure Render tools for React
 - [VelocityJS](http://julian.com/research/velocity/) - Animation engine
 - [Chance](http://chancejs.com/) - Random generator
+- [Yargs](http://yargs.js.org/) - Command line arguments parser
 
 ### React/ES6
 - [Decorators](https://www.npmjs.com/package/core-decorators) - Core decorators
